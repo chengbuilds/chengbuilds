@@ -10,6 +10,10 @@ Turning ideas into tools, with AI as my pair. Most of my work lives in private r
 ![Shell](https://img.shields.io/badge/-Shell%20%2F%20CLI-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![AI](https://img.shields.io/badge/-AI%20%2F%20LLM-FF6F61?style=flat-square&logo=openai&logoColor=white)
 
+## Projects
+
+- 🧠 **[code-zhuge](https://github.com/wangcheng6-ai/code-zhuge)** — Zhuge Liang inspired full-stack agent persona + 36-stratagem skill pack, with a safe installer for Claude Code and Codex
+
 ## What I'm Doing
 
 - 🤖 **Building with AI agents** — pairing with LLMs to go from idea to working tool, fast
