@@ -1,14 +1,25 @@
 # Hi, I'm wang cheng 👋
 
-🛠️ **Independent builder** &nbsp;|&nbsp; 🤖 **AI collaborator** &nbsp;|&nbsp; 🧭 **Building & learning in private**
+🛠️ **Independent builder** &nbsp;|&nbsp; 🤖 **AI collaborator** &nbsp;|&nbsp; 🚀 **Shipping small, useful tools**
 
-Turning ideas into tools, with AI as my pair. Most of my work lives in private repos for now — shipping quietly, sharing soon.
+Turning ideas into tools, with AI as my pair. First public release is out — more on the way.
 
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell%20%2F%20CLI-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![AI](https://img.shields.io/badge/-AI%20%2F%20LLM-FF6F61?style=flat-square&logo=openai&logoColor=white)
+
+## 🐾 Featured — PetPhrase
+
+**[PetPhrase](https://github.com/wangcheng6-ai/PetPhrase)** — A desktop pet that holds your snippets. Click the pet, click a phrase, it's on your clipboard. Compatible with the [petdex](https://petdex.dev/) pet ecosystem. Rust + Slint, single native process: **5.7MB installer · ~23MB RAM · ~0.3s cold start**.
+
+[![Release](https://img.shields.io/github/v/release/wangcheng6-ai/PetPhrase?color=f97316&label=release&style=flat-square)](https://github.com/wangcheng6-ai/PetPhrase/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/wangcheng6-ai/PetPhrase/total?color=blue&label=downloads&style=flat-square)](https://github.com/wangcheng6-ai/PetPhrase/releases)
+[![Stars](https://img.shields.io/github/stars/wangcheng6-ai/PetPhrase?style=flat-square&color=yellow)](https://github.com/wangcheng6-ai/PetPhrase/stargazers)
+
+<a href="https://github.com/wangcheng6-ai/PetPhrase"><img src="https://raw.githubusercontent.com/wangcheng6-ai/PetPhrase/main/screenshots/panel.png" width="340" alt="PetPhrase panel"></a>
 
 ## Projects
 
