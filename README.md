@@ -13,17 +13,13 @@ Turning ideas into tools, with AI as my pair. First public release is out — mo
 
 ## 🐾 Featured — PetPhrase
 
-**[PetPhrase](https://github.com/wangcheng6-ai/PetPhrase)** — A desktop pet that holds your snippets. Click the pet, click a phrase, it's on your clipboard. Compatible with the [petdex](https://petdex.dev/) pet ecosystem. Rust + Slint, single native process: **5.7MB installer · ~23MB RAM · ~0.3s cold start**.
+**[PetPhrase](https://github.com/chengbuilds/PetPhrase)** — A desktop pet that holds your snippets. Click the pet, click a phrase, it's on your clipboard. Compatible with the [petdex](https://petdex.dev/) pet ecosystem. Rust + Slint, single native process: **5.7MB installer · ~23MB RAM · ~0.3s cold start**.
 
-[![Release](https://img.shields.io/github/v/release/wangcheng6-ai/PetPhrase?color=f97316&label=release&style=flat-square)](https://github.com/wangcheng6-ai/PetPhrase/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/wangcheng6-ai/PetPhrase/total?color=blue&label=downloads&style=flat-square)](https://github.com/wangcheng6-ai/PetPhrase/releases)
-[![Stars](https://img.shields.io/github/stars/wangcheng6-ai/PetPhrase?style=flat-square&color=yellow)](https://github.com/wangcheng6-ai/PetPhrase/stargazers)
+[![Release](https://img.shields.io/github/v/release/chengbuilds/PetPhrase?color=f97316&label=release&style=flat-square)](https://github.com/chengbuilds/PetPhrase/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/chengbuilds/PetPhrase/total?color=blue&label=downloads&style=flat-square)](https://github.com/chengbuilds/PetPhrase/releases)
+[![Stars](https://img.shields.io/github/stars/chengbuilds/PetPhrase?style=flat-square&color=yellow)](https://github.com/chengbuilds/PetPhrase/stargazers)
 
-<a href="https://github.com/wangcheng6-ai/PetPhrase"><img src="https://raw.githubusercontent.com/wangcheng6-ai/PetPhrase/main/screenshots/panel.png" width="340" alt="PetPhrase panel"></a>
-
-## Projects
-
-- 🧠 **[code-zhuge](https://github.com/wangcheng6-ai/code-zhuge)** — Zhuge Liang inspired full-stack agent persona + 36-stratagem skill pack, with a safe installer for Claude Code and Codex
+<a href="https://github.com/chengbuilds/PetPhrase"><img src="https://raw.githubusercontent.com/chengbuilds/PetPhrase/main/screenshots/panel.png" width="340" alt="PetPhrase panel"></a>
 
 ## What I'm Doing
 
@@ -34,12 +30,12 @@ Turning ideas into tools, with AI as my pair. First public release is out — mo
 
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/wangcheng6-ai)
+![GitHub Contribution Graph](https://ghchart.rshah.org/chengbuilds)
 
 ## Connect
 
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:wtangshun@gmail.com)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/wangcheng6-ai)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/chengbuilds)
 
 ---
 
