@@ -21,9 +21,9 @@ Turning ideas into tools, with AI as my pair. First public release is out — mo
 
 <a href="https://github.com/chengbuilds/PetPhrase"><img src="https://raw.githubusercontent.com/chengbuilds/PetPhrase/main/screenshots/panel.png" width="340" alt="PetPhrase panel"></a>
 
-## 🗺️ 零基础 AI 开发名词词典
+## 🗺️ Dev Glossary for Non-Coders
 
-**[renzhiditu.ccwu.cc](https://renzhiditu.ccwu.cc)** — 面向 0 编程基础用户的技术认知地图：5 个阶段、300+ 核心词条，看懂开发世界，学会用 AI 把想法做成产品。
+**[renzhiditu.ccwu.cc](https://renzhiditu.ccwu.cc)** — A cognitive map of the dev world for people with zero coding background: 300+ core terms across 5 stages, so they can understand developers and ship ideas with AI. (In Chinese)
 
 ## What I'm Doing
 
