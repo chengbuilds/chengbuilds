@@ -21,6 +21,10 @@ Turning ideas into tools, with AI as my pair. First public release is out — mo
 
 <a href="https://github.com/chengbuilds/PetPhrase"><img src="https://raw.githubusercontent.com/chengbuilds/PetPhrase/main/screenshots/panel.png" width="340" alt="PetPhrase panel"></a>
 
+## 🗺️ 零基础 AI 开发名词词典
+
+**[renzhiditu.ccwu.cc](https://renzhiditu.ccwu.cc)** — 面向 0 编程基础用户的技术认知地图：5 个阶段、300+ 核心词条，看懂开发世界，学会用 AI 把想法做成产品。
+
 ## What I'm Doing
 
 - 🤖 **Building with AI agents** — pairing with LLMs to go from idea to working tool, fast
