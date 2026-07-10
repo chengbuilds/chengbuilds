@@ -2,7 +2,7 @@
 
 🛠️ **Independent builder** &nbsp;|&nbsp; 🤖 **AI collaborator** &nbsp;|&nbsp; 🚀 **Shipping small, useful tools**
 
-Turning ideas into tools, with AI as my pair. First public release is out — more on the way.
+Turning ideas into tools, with AI as my pair. Two public releases and counting — more on the way.
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -11,7 +11,9 @@ Turning ideas into tools, with AI as my pair. First public release is out — mo
 ![Shell](https://img.shields.io/badge/-Shell%20%2F%20CLI-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![AI](https://img.shields.io/badge/-AI%20%2F%20LLM-FF6F61?style=flat-square&logo=openai&logoColor=white)
 
-## 🐾 Featured — PetPhrase
+## 🚀 Featured Projects
+
+### 🐾 PetPhrase
 
 **[PetPhrase](https://github.com/chengbuilds/PetPhrase)** — A desktop pet that holds your snippets. Click the pet, click a phrase, it's on your clipboard. Compatible with the [petdex](https://petdex.dev/) pet ecosystem. Rust + Slint, single native process: **5.7MB installer · ~23MB RAM · ~0.3s cold start**.
 
@@ -19,7 +21,15 @@ Turning ideas into tools, with AI as my pair. First public release is out — mo
 [![Downloads](https://img.shields.io/github/downloads/chengbuilds/PetPhrase/total?color=blue&label=downloads&style=flat-square)](https://github.com/chengbuilds/PetPhrase/releases)
 [![Stars](https://img.shields.io/github/stars/chengbuilds/PetPhrase?style=flat-square&color=yellow)](https://github.com/chengbuilds/PetPhrase/stargazers)
 
-<a href="https://github.com/chengbuilds/PetPhrase"><img src="https://raw.githubusercontent.com/chengbuilds/PetPhrase/main/screenshots/panel.png" width="340" alt="PetPhrase panel"></a>
+
+
+### 📄 PaddleDesk
+
+**[PaddleDesk](https://github.com/chengbuilds/PaddleDesk)** — Open-source Windows OCR client for the official PaddleOCR cloud API (Baidu AI Studio). Complex documents become structured results: tables to CSV, formulas to LaTeX, whole pages to Markdown, plus screen-capture OCR. Tauri 2 + Rust + React, **6.2MB installer**. [Website](https://chengbuilds.github.io/PaddleDesk/)
+
+[![Release](https://img.shields.io/github/v/release/chengbuilds/PaddleDesk?color=2733c9&label=release&style=flat-square)](https://github.com/chengbuilds/PaddleDesk/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/chengbuilds/PaddleDesk/total?color=blue&label=downloads&style=flat-square)](https://github.com/chengbuilds/PaddleDesk/releases)
+[![Stars](https://img.shields.io/github/stars/chengbuilds/PaddleDesk?style=flat-square&color=yellow)](https://github.com/chengbuilds/PaddleDesk/stargazers)
 
 ## 🗺️ Dev Glossary for Non-Coders
 
